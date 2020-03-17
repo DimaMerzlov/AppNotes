@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hint_title">Заголовок заметки</string>
+    <string name="description_note">Описание заметк</string>
+    <string name="prior_1">1</string>
+    <string name="prior_2">2</string>
+    <string name="prior_3">3</string>
+    <string name="button_save_note">Добавить заметку</string>
+    <string name="warning_fill_filds">Все поля должны быть заполнены</string>
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Субота</item>
+        <item>Воскресение</item>
+    </string-array>
+</resources>
